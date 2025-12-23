@@ -1,5 +1,5 @@
 # HOI4D 4D data pipeline (bug fixed)
-Fixed numerous bugs in the original code provided by the https://github.com/leolyliu/HOI4D-Instructions.
+Fix numerous bugs in the original code provided by the https://github.com/leolyliu/HOI4D-Instructions.
 ## Data Organization
 
 HOI4D is constructed by collected human-object interaction RGB-D videos and various annotations including object CAD models, action segmentation, 2D motion segmentation, 3D static scene panoptic segmentation, 4D dymanics scene panoptic segmentation, category-level object pose, and human hand pose.
@@ -72,4 +72,5 @@ Please cite HOI4D if it helps your research:
   year={2022}
 }
 ```
+
 
